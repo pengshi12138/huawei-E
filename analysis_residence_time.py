@@ -82,5 +82,4 @@ def draw():
 
 if __name__ == '__main__':
     # save_csv('data/residence_time/108/20240501_20240501135236_20240501160912_135235_car_id.csv', '108-2')
-
     draw()
